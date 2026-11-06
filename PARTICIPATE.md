@@ -4,7 +4,7 @@
 
 **[知見・資料を投稿する／ファイルを添付する](https://github.com/AICatchup/catchup-002/issues/new?template=share.yml)**
 
-[みんなの資料を見る](docs/) · [投稿した内容・受付一覧](https://github.com/AICatchup/catchup-002/issues?q=is%3Aissue+label%3Asubmission) · [AI・エージェント向けの入口](AGENTS.md)
+[みんなの資料を見る](docs/) · [投稿した内容・受付一覧](https://github.com/AICatchup/catchup-002/issues?q=is%3Aissue) · [AI・エージェント向けの入口](AGENTS.md)
 
 ## 送るものに合わせて選ぶ
 

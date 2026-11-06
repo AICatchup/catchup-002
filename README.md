@@ -10,7 +10,7 @@
 | 初めて投稿する、送り方を確認する | [参加者ガイド](PARTICIPATE.md) |
 | 自分のAIに投稿を手伝ってもらう | [AI向けの入口](AGENTS.md) / [コピー用の依頼文](PARTICIPATE.md#自分のaiへそのまま渡す) |
 | みんなの資料を探す | [種類別の資料一覧](docs/) |
-| 送った内容の確認・追記 | [投稿の受付一覧](https://github.com/AICatchup/catchup-002/issues?q=is%3Aissue+label%3Asubmission) |
+| 送った内容の確認・追記 | [投稿の受付一覧](https://github.com/AICatchup/catchup-002/issues?q=is%3Aissue) |
 
 共有は任意で、短いメモだけでも歓迎です。閲覧にはアカウント不要、投稿にはGitHubアカウントが必要です。投稿・添付した資料は公開されます。
 

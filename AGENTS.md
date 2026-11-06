@@ -16,7 +16,7 @@
 | --- | --- |
 | 参加者に渡す入口とコピー用の依頼文 | [PARTICIPATE.md](PARTICIPATE.md) |
 | 標準の共有Issue | [share.yml の投稿フォーム](https://github.com/AICatchup/catchup-002/issues/new?template=share.yml) |
-| 既存投稿・重複の確認 | [submission のIssue一覧](https://github.com/AICatchup/catchup-002/issues?q=is%3Aissue+label%3Asubmission) / [記録](contributions/) |
+| 既存投稿・重複の確認 | [すべてのIssue一覧](https://github.com/AICatchup/catchup-002/issues?q=is%3Aissue) / [記録](contributions/) |
 | PRで追加する記録 | `contributions/<GitHub名>-<短い題名>.md` |
 | 分類と索引の更新先 | [docs/README.md](docs/README.md)から該当する種類のページへ |
 | PRの宛先 | `AICatchup/catchup-002` の `main` |
