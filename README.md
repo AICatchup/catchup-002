@@ -33,6 +33,7 @@
 
 ## 見る・持ち寄る
 
+- [第2回の公開資料への入口](contributions/organizers-resources.md)
 - [寄せられた資料・活用事例](contributions/)
 - [資料・活用事例を投稿する](https://github.com/AICatchup/catchup-002/issues/new?template=share.yml) — URLと一言からどうぞ。GitHubアカウントが必要です。
 - [PRで投稿する](https://github.com/AICatchup/community/blob/main/CONTRIBUTING.md) — Markdownや元資料へのリンクを追加できます。
