@@ -1,5 +1,11 @@
 blank_issues_enabled: false
 contact_links:
+  - name: 初めて投稿する方・ファイルの送り方
+    url: https://github.com/AICatchup/catchup-002/blob/main/PARTICIPATE.md
+    about: 共有フォーム、添付方法、AIへ渡す依頼文、投稿後の確認はこちら
+  - name: AI・エージェント向けの投稿手順
+    url: https://github.com/AICatchup/catchup-002/blob/main/AGENTS.md
+    about: 投稿先、共通手順、IssueとPRの使い分けを確認できます
   - name: 共通方針の提案・相談
     url: https://github.com/AICatchup/community/issues/new?template=proposal.yml
     about: 各回共通のビジョンや仕組みへの提案はこちら
