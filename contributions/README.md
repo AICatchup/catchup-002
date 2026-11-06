@@ -4,4 +4,4 @@
 
 [投稿テンプレート](https://github.com/AICatchup/community/blob/main/templates/contribution.md) / [投稿方法](https://github.com/AICatchup/community/blob/main/CONTRIBUTING.md) / [フォームで投稿する](https://github.com/AICatchup/catchup-002/issues/new?template=share.yml)
 
-運営がフォームから取り込む場合は、元Issueへのリンクを添えます。各ファイルから原典と作者をたどってください。
+運営がフォームから取り込む場合は、元Issueへのリンクを添えます。各ファイルから原典と作者をたどってください。確認して取り込んだ記録は、[種類別の一覧](../docs/)から探せます。
