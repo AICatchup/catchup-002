@@ -19,11 +19,13 @@ body:
     attributes:
       label: 内容の種類
       options:
+        - リンク・参考資料
         - 発表・LT
         - 活用事例
         - 作品・デモ
         - 試した記録
         - 質問・まだ分からないこと
+        - その他・新しいカテゴリ
     validations:
       required: true
   - type: textarea
