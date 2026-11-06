@@ -2,6 +2,8 @@
 
 集まった知見を、探しやすいように種類ごとにまとめます。資料は作者と原典をたどれる形で紹介します。
 
+**[知見・資料を投稿する](https://github.com/AICatchup/catchup-002/issues/new?template=share.yml)** · [参加者ガイド・ファイルの送り方](../PARTICIPATE.md) · [AI向けの入口](../AGENTS.md)
+
 | 種類 | 例えば |
 | --- | --- |
 | [リンク・参考資料](links.md) | 公式ドキュメント、記事、動画、公開資料 |

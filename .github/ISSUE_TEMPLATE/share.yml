@@ -1,12 +1,14 @@
 name: 資料・活用事例を投稿する
-description: 発表、作品、私はこう使った、試して分かったことを持ち寄る
+description: URL、PDF・PPTX、短いメモから。発表していない人も歓迎です
 title: "[共有] "
 labels: [submission]
 body:
   - type: markdown
     attributes:
       value: |
-        URLと一言から投稿できます。このIssueは送信時点で公開されます。運営が確認し、原典と作者を残してアーカイブへの取り込みを進めます。[投稿方法と公開の扱い](https://github.com/AICatchup/community/blob/main/CONTRIBUTING.md)
+        URL、ファイル、短いメモから共有できます。[参加者ガイド](https://github.com/AICatchup/catchup-002/blob/main/PARTICIPATE.md) / [AI向けの入口](https://github.com/AICatchup/catchup-002/blob/main/AGENTS.md)
+
+        Issueは送信時から公開されます。添付ファイルは添付操作の時点でアップロードされるので、公開してよい内容だけを選んでください。送信後は運営が確認し、作者と原典を残して一覧への掲載を進めます。投稿は任意です。
   - type: input
     id: author
     attributes:
@@ -18,6 +20,7 @@ body:
     id: kind
     attributes:
       label: 内容の種類
+      description: 一番近いものを選んでください。迷ったら「その他・新しいカテゴリ」で構いません。
       options:
         - リンク・参考資料
         - 発表・LT
@@ -33,13 +36,15 @@ body:
     attributes:
       label: 何をしたか・伝えたいこと
       description: 短いメモでも大丈夫です。資料がなければ、ここに本文を書けます。
+      placeholder: 例：会議メモをAIで整理するとき、未決事項だけを先に抜き出すと次の作業を決めやすかった。
     validations:
       required: true
   - type: textarea
     id: sources
     attributes:
-      label: 資料・コード・デモ・作者のURL
-      description: 公開してよいURLのみ。利用条件がある場合は、そのリンクもどうぞ。
+      label: 資料のURL・ファイル添付
+      description: 公開URLを貼るか、この欄へPDF・PPTXをドラッグ／添付できます（1ファイル25MBまで）。ファイルのリンクが表示されるまで待ってください。資料なしでも送れます。
+      placeholder: 元資料・コード・デモ・作者の公開URL。利用条件がある場合はそのリンクも。
   - type: textarea
     id: evidence
     attributes:

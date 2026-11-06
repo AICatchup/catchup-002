@@ -11,4 +11,4 @@
 
 資料への案内は、掲載された機能をすべて実機で確認したことを意味しません。提供状況や利用条件は各資料と公式の出典を確認してください。
 
-[参考資料を投稿する](https://github.com/AICatchup/catchup-002/issues/new?template=share.yml) / [投稿方法](https://github.com/AICatchup/community/blob/main/CONTRIBUTING.md)
+[参考資料を投稿する](https://github.com/AICatchup/catchup-002/issues/new?template=share.yml) / [参加者ガイド・ファイルの送り方](../PARTICIPATE.md) / [AI向けの入口](../AGENTS.md)
